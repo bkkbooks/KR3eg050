@@ -1,0 +1,117 @@
+canonical_identifier: bkk:krp/KR3eg050/v1
+canonical_location: https://kanripo.org/bkk/KR3eg050/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 羊毛瘟證論
+  identifiers:
+    krp: KR3eg050
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg050.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg050_000.yaml, hash: 'sha256:71770af2dfb718bb664f2608b8ddc036f743f60d33a1b37d18a92d3da0274de0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg050_000.markers.yaml, hash: 'sha256:9e471317ac983105a740b8e899f2a5ebc48f57d64eec4a66db1d403e191901ab'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg050_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 415
+  label: 方序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg050_jc_000-d3.h1s1
+    span:
+    - front
+    - 415
+    - 703
+  label: 王序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg050_jc_000-d4.h1s1
+    span:
+    - front
+    - 703
+    - 1232
+  label: 陳序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg050_jc_000-d5.h1s1
+    span:
+    - front
+    - 1232
+    - 1646
+  label: 徐序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg050_jc_000-d6.h1s1
+    span:
+    - front
+    - 1646
+    - 2009
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg050_jc_000-d7.h1s1
+    span:
+    - body
+    - 0
+    - 10352
+  label: 羊毛溫證論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg050_jc_000-d7d2
+    span:
+    - body
+    - 5
+    - 10221
+  label: 伏邪窮源論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg050_jc_000-d7d3
+    span:
+    - body
+    - 10221
+    - 10352
+  label: 除羊毛法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg050_jc_000-d8.h1s1
+    span:
+    - body
+    - 10352
+    - 18272
+  label: 備用諸方
+  type: section
+  level: 1
+hash: sha256:ea30e846bb97cb2ca0415339a90e568dcbc6a1b865213ab9fcc3039f61d95ea5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
