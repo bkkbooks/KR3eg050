@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eg050/v1
 canonical_location: https://kanripo.org/bkk/KR3eg050/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 羊毛瘟證論
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg050_000.yaml, hash: 'sha256:e53f89b4439931fb5c4fcea27f4eb6c47fc6f37c78e22ee7ccfbaf9daac201ca'}
+  - {seq: 0, filename: KR3eg050_000.yaml, hash: 'sha256:e57867d0af5cf3699f57c643c5721ae36fa09865baee153d4a50c8cfb59631f6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg050_000.markers.yaml, hash: 'sha256:ed11dc1160dcbfc2f44bdad496300d744bf1f280d40f5463129c1cae20fc8459'}
+  - {seq: 0, role: markers, filename: assets/KR3eg050_000.markers.yaml, hash: 'sha256:774df703faedb6b9bf25550a84a4f843d5c222d9ae83204316c79c410bbadb3c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -111,4 +111,7 @@ table_of_contents:
   label: 備用諸方
   type: section
   level: 1
-hash: sha256:f485bff661b1952db9e16c27e1debbb8948d842abdd7123d3e0501a26086e45d
+hash: sha256:78572604d44636e0415c60c8941456bf60b53554ee1edbd72a03697988e1a311
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
