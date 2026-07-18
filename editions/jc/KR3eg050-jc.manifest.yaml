@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eg050_000-jc.yaml, hash: 'sha256:e53f89b4439931fb5c4fcea27f4eb6c47fc6f37c78e22ee7ccfbaf9daac201ca'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg050_000-jc.markers.yaml, hash: 'sha256:b9c0943a9caa6bab68bb726e148651fc235514a8a79e936a2a6ad8073f58b290'}
+  - {seq: 0, role: markers, filename: assets/KR3eg050_000-jc.markers.yaml, hash: 'sha256:68d5822e7d287c4bd5376b1159543f3d9163f1166bf1e1ce4bfcc9fa2db9d1fa'}
 table_of_contents:
 - ref:
     seq: 0
@@ -111,4 +111,4 @@ table_of_contents:
   label: 備用諸方
   type: section
   level: 1
-hash: sha256:9c1a4b860c481714e3de085761fce70c07fe551dac3ce6ef66824a2fae89106f
+hash: sha256:a7ce666c35476644ca11c6f2a80f1a01f8637d9d2386be76c117566253cf42e6
